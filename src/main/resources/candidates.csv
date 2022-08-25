@@ -1,0 +1,4 @@
+id,cicId,fullName,email,mobileNumber,hiredDate,degree,aggregatePercentage,city,state,preferredJobLocation,status,passOutYear,candidateStatus
+1,101,Ashwini,rashwini@gmail.com,9689410978,04-05-2020,BE,81,Mumbai,MH,Mumbai,sda,2019,completed
+2,102,Ashu,ashu@gmail.com,7689076333,08-12-2021,BE,78,Thane,MH,Mumbai,dss,2020,completed
+3,103,Ash,ashu@gmail.com,9876543456,15-07-2022,BE,86,Mumbai,MH,Mumbai,sdsdf,2020,completed
